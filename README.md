@@ -1,10 +1,18 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/alvenissj/alvenissj/main/assets/img/fotoPerfilPrincipal.png" 
+       alt="Alvenis Becerra - Perfil" 
+       width="100%">
+</p>
+
+
 👋🌐📚 Hola 💻💻 👋 Mi nombre es ALVENIS BECERRA
-
+<p align="justify">
 Ingeniero de Sistemas Full Stack con una sólida experiencia en el desarrollo y mantenimiento de servicios backend utilizando Node.js y Express.js. Me especializo en el diseño e implementación de API RESTful para respaldar aplicaciones frontend, priorizando la eficiencia y la escalabilidad.
-
+<br><br>
 Mi habilidad para integrar bases de datos MongoDB y SQL me ha permitido almacenar y recuperar datos de manera eficiente, garantizando un rendimiento óptimo del sistema. He colaborado estrechamente con desarrolladores frontend para crear interfaces de usuario interactivas y responsivas utilizando React.js, asegurando una experiencia de usuario excepcional.
-
+<br><br>
 Como defensor de las mejores prácticas de desarrollo, he implementado pruebas automatizadas e integración continua para garantizar la calidad y confiabilidad del código en todos los proyectos en los que he participado. Mi objetivo es seguir aprendiendo y creciendo en el mundo de la ingeniería de software, entregando soluciones de alta calidad que impulsen el éxito del negocio.
+</p>
 
 ------------------------------------------------------------------------
 ## 🚀 Tecnologías
