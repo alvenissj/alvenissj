@@ -1,18 +1,22 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/alvenissj/alvenissj/main/assets/img/fotoPerfilPrincipal.png" 
-       alt="Alvenis Becerra - Perfil" 
-       width="100%">
-</p>
-
-
-👋🌐📚 Hola 💻💻 👋 Mi nombre es ALVENIS BECERRA
+<div align="center">
+    <p align="center">
+        <img src="https://raw.githubusercontent.com/alvenissj/alvenissj/main/assets/img/fotoPerfilPrincipal.png" 
+           alt="Alvenis Becerra - Perfil" 
+           width="100%">
+    </p>
+    <img width=100% src=https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&reversal=true />
+</div>
+<h1 align="center">🌐📚💻💻 Hola, Mi nombre es ALVENIS BECERRA <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"></h1>
 <p align="justify">
-Ingeniero de Sistemas Full Stack con una sólida experiencia en el desarrollo y mantenimiento de servicios backend utilizando Node.js y Express.js. Me especializo en el diseño e implementación de API RESTful para respaldar aplicaciones frontend, priorizando la eficiencia y la escalabilidad.
+Alvenis Becerra es un Ingeniero de Sistemas Full Stack con sólida trayectoria en el diseño, desarrollo y optimización de soluciones tecnológicas basadas en <strong>Node JS</strong>, <strong>Express JS</strong>, <strong>React JS</strong> y arquitecturas <strong>API RESTful</strong>. Su experiencia abarca la creación de servicios backend escalables, seguros y de alto rendimiento, orientados a soportar plataformas modernas y de misión crítica.
 <br><br>
-Mi habilidad para integrar bases de datos MongoDB y SQL me ha permitido almacenar y recuperar datos de manera eficiente, garantizando un rendimiento óptimo del sistema. He colaborado estrechamente con desarrolladores frontend para crear interfaces de usuario interactivas y responsivas utilizando React.js, asegurando una experiencia de usuario excepcional.
+Demuestra un dominio avanzado en el manejo de <strong>SQL</strong>, incluyendo consultas complejas, modelado de datos, optimización de rendimiento y desarrollo de procedimientos almacenados, así como en la gestión de bases de datos NoSQL mediante <strong>MongoDB</strong>. Esta combinación de competencias le permite estructurar, integrar y administrar datos con precisión, eficiencia y enfoque estratégico.
 <br><br>
-Como defensor de las mejores prácticas de desarrollo, he implementado pruebas automatizadas e integración continua para garantizar la calidad y confiabilidad del código en todos los proyectos en los que he participado. Mi objetivo es seguir aprendiendo y creciendo en el mundo de la ingeniería de software, entregando soluciones de alta calidad que impulsen el éxito del negocio.
+En el ámbito frontend, Alvenis ha participado en la construcción de interfaces dinámicas y responsivas utilizando <strong>React.js</strong>, asegurando experiencias de usuario fluidas, intuitivas y alineadas con estándares modernos de diseño. Su capacidad para trabajar en entornos colaborativos facilita la integración efectiva entre equipos y la entrega de soluciones integrales.
+<br><br>
+Comprometido con las mejores prácticas de ingeniería de software, aplica metodologías de control de versiones, pruebas automatizadas, integración continua, documentación técnica de calidad y patrones de arquitectura que fortalecen la mantenibilidad y escalabilidad de cada proyecto. Su enfoque profesional combina excelencia técnica, pensamiento analítico y una búsqueda constante de aprendizaje, orientado a agregar valor real y sostenible en cada implementación.
 </p>
+
 
 ------------------------------------------------------------------------
 ## 🚀 Tecnologías
@@ -33,12 +37,11 @@ Como defensor de las mejores prácticas de desarrollo, he implementado pruebas a
   <img src="https://img.shields.io/badge/Soporte%20Técnico-0A66C2?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Inteligencia%20Artificial-FF4500?style=for-the-badge"/>
 </p>
-------------------------------------------------------------------------
-## 🧩 Experiencias
 
 ### 💻 Front-End
-- React.js  
-- JavaScript  
+[<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="220" alt="giphy">](https://t.me/voko_aleksey)
+- React JS  
+- Vanilla JavaScript  
 - HTML5 / CSS3  
 - Consumo de APIs  
 - Responsive Design  
@@ -46,8 +49,8 @@ Como defensor de las mejores prácticas de desarrollo, he implementado pruebas a
 ---
 
 ### 🛠️ Back-End
-- Node.js  
-- Express.js  
+- Node JS 
+- Express JS  
 - API REST  
 - MongoDB  
 - SQL Server / MySQL 
@@ -55,13 +58,12 @@ Como defensor de las mejores prácticas de desarrollo, he implementado pruebas a
 ------------------------------------------------------------------------
 
 ## 🎯 Habilidades y Conocimientos Adicionales
-
 - Soporte técnico TI  
 - Gestión de infraestructura tecnológica  
 - Solución de problemas y optimización  
 - Diseño de sistemas  
 - Buenas prácticas de desarrollo  
-- Control de versiones con Git y GitHub 
+- Control de versiones con Git y GitHub
 ------------------------------------------------------------------------
 ## 🧾 Contacto
 
@@ -82,7 +84,22 @@ Como defensor de las mejores prácticas de desarrollo, he implementado pruebas a
   <a href="https://wa.me/573232914082">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
   </a>
-
-
 ------------------------------------------------------------------------
+<table align="center">
+  <tr>
+    <td align="center">
+      <a href="https://t.me/voko_aleksey">
+        <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" alt="giphy" width="220" />
+      </a>
+    </td>
+    <td align="center">
+      <img src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" alt="Night Coding" width="220" />
+    </td>
+    <td align="center">
+      <img src="https://media.giphy.com/media/Ah3zHH7hvsSB2/giphy.gif" alt="GIF" width="220" />
+    </td>
+  </tr>
+</table>
+
+
 
