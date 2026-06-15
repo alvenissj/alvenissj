@@ -8,14 +8,7 @@
 </div>
 <h1 align="center">🌐📚💻💻 Hola, Mi nombre es ALVENIS BECERRA <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"></h1>
 <p align="justify">
-Alvenis Becerra es un Ingeniero de Sistemas Full Stack con sólida trayectoria en el diseño, desarrollo y optimización de soluciones tecnológicas basadas en <strong>Node JS</strong>, <strong>Express JS</strong>, <strong>React JS</strong> y arquitecturas <strong>API RESTful</strong>. Su experiencia abarca la creación de servicios backend escalables, seguros y de alto rendimiento, orientados a soportar plataformas modernas y de misión crítica.
-<br><br>
-Demuestra un dominio avanzado en el manejo de <strong>SQL</strong>, incluyendo consultas complejas, modelado de datos, optimización de rendimiento y desarrollo de procedimientos almacenados, así como en la gestión de bases de datos NoSQL mediante <strong>MongoDB</strong>. Esta combinación de competencias le permite estructurar, integrar y administrar datos con precisión, eficiencia y enfoque estratégico.
-<br><br>
-En el ámbito frontend, Alvenis ha participado en la construcción de interfaces dinámicas y responsivas utilizando <strong>React.js</strong>, asegurando experiencias de usuario fluidas, intuitivas y alineadas con estándares modernos de diseño. Su capacidad para trabajar en entornos colaborativos facilita la integración efectiva entre equipos y la entrega de soluciones integrales.
-<br><br>
-Comprometido con las mejores prácticas de ingeniería de software, aplica metodologías de control de versiones, pruebas automatizadas, integración continua, documentación técnica de calidad y patrones de arquitectura que fortalecen la mantenibilidad y escalabilidad de cada proyecto. Su enfoque profesional combina excelencia técnica, pensamiento analítico y una búsqueda constante de aprendizaje, orientado a agregar valor real y sostenible en cada implementación.
-</p>
+Alvenis Becerra es un Ingeniero de Sistemas con matrícula profesional vigente, con enfoque en ingeniería de datos y desarrollo BACKEND. Formación sólida en SQL Server, con profundización continua en optimización, modelado de datos y desarrollo de consultas avanzadas, CTEs, funciones de ventana, TRIGGERS y STORED PROCEDURES, aplicados con criterios de producción: trazabilidad, integridad referencial y rendimiento. Experiencia en diseño de APIs RESTful con Node.js y Express.js bajo arquitectura modular por capa y autenticación. Enfocado en roles donde la calidad de los datos, la consistencia de la información y la robustez del BACKEND constituyen pilares críticos para la operación y la toma de decisiones. Profesional disciplinado, con ritmo sostenido de aprendizaje y rápida adaptación a entornos técnicos exigentes, aportando valor desde etapas iniciales.
 
 
 ------------------------------------------------------------------------
