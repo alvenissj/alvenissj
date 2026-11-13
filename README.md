@@ -136,11 +136,11 @@ Mi trayectoria integra desarrollo de software, bases de datos, telecomunicacione
       <br><br>
       <em>Node.js, Docker & AWS</em>
     </td>
-    <td align="center" width="33%">
-      <sub style="font-size: 14px; font-weight: bold;">💡 Lógica & Algoritmos</sub><br><br>
+ <td align="center" width="33%">
+      <sub style="font-size: 14px; font-weight: bold;">🔒 Flujos & Ciberseguridad</sub><br><br>
       <img src="https://media.giphy.com/media/Z1kpfgtHmpW8rUJzF4/giphy.gif" alt="Data Streams" width="200" />
       <br><br>
-      <em>Arquitectura y Escalabilidad</em>
+      <em>Monitoreo & Redes TI</em>
     </td>
   </tr>
 </table>
