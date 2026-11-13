@@ -138,7 +138,7 @@ Mi trayectoria integra desarrollo de software, bases de datos, telecomunicacione
     </td>
  <td align="center" width="33%">
       <sub style="font-size: 14px; font-weight: bold;">🔒 Flujos & Ciberseguridad</sub><br><br>
-      <img src="https://media.giphy.com/media/Z1kpfgtHmpW8rUJzF4/giphy.gif" alt="Data Streams" width="200" />
+      <img src="https://media.giphy.com/media/xT1XGWbE0XiBDX2T8Q/giphy.gif" alt="Server Data" width="200" />
       <br><br>
       <em>Monitoreo & Redes TI</em>
     </td>
